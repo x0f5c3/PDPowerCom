@@ -1,0 +1,7 @@
+[tools]
+"aqua:nushell/nushell" = "latest"
+"cargo:cocogitto" = "latest"
+"cargo:koji" = "latest"
+node = "22"
+powershell = "latest"
+rust = "stable"

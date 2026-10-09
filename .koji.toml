@@ -1,0 +1,4 @@
+autocomplete = true
+breaking_changes = true
+issues = true
+emoji = false
